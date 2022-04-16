@@ -3,5 +3,4 @@
 Olá ! Bem vindo ao primeiro livro de receitas
 
 - Strogonof de Frango
-
-  
+- Batata recheada
